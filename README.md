@@ -1,9 +1,9 @@
 Hi, I'm Marian 👋
 
-# Computing with Games Development student at Munster Technological University
-# Interested in Software Development and Game Development
-# Developing projects using Unity and C#
-# Experience with C#, Java, SQL and Object-Oriented Programming
+- Computing with Games Development student at Munster Technological University
+- Interested in Software Development and Game Development
+- Developing projects using Unity and C#
+- Experience with C#, Java, SQL and Object-Oriented Programming
 
 Technologies
 
